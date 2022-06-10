@@ -1,0 +1,28 @@
+GET http://localhost:63046/actuator/timelimiterevents
+Accept: application/vnd.spring-boot.actuator.v3+json
+
+<> 2022-06-03T162434.200.json
+
+###
+
+GET http://localhost:63046/actuator/timelimiters
+Accept: application/vnd.spring-boot.actuator.v3+json
+
+<> 2022-06-03T162405.200.json
+
+###
+
+GET http://localhost:63046/actuator/circuitbreakers
+Accept: application/vnd.spring-boot.actuator.v3+json
+
+<> 2022-06-03T162324.200.json
+
+###
+
+GET http://localhost:63046/actuator/health
+Accept: application/vnd.spring-boot.actuator.v3+json
+
+<> 2022-06-03T161954.200.json
+
+###
+

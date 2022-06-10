@@ -1,0 +1,8 @@
+com\project\orderservice\dto\OrderRequest.class
+com\project\orderservice\model\Order.class
+com\project\orderservice\service\OrderService.class
+com\project\orderservice\dto\OrderLineItemsDto.class
+com\project\orderservice\OrderServiceApplication.class
+com\project\orderservice\repository\OrderRepository.class
+com\project\orderservice\model\OrderLineItems.class
+com\project\orderservice\controller\OrderController.class
